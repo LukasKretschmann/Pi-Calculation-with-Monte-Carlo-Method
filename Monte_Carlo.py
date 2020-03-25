@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import random
 import math
 
@@ -18,10 +12,3 @@ a = 4*count_inside1/count
 print("Anzahl von Tropfen im Kreis:",count*5)
 print("Berechneter Wert :",a)
 print("Richtiger Wert für PI:  ",3.14159265359)
-
-
-# In[ ]:
-
-
-
-
